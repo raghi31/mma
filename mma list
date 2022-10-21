@@ -1,0 +1,45 @@
+{
+    'product': 'zoryl mp2 forte',
+    'agencies': [
+      {'agency': 'Sree Shanmuga', 'agency uid': '1234'},
+      {'agency': 'Sree pharma', 'agency uid': '12'},
+    ]
+  },
+  {
+    'product': 'zoryl mp2 forte',
+    'agencies': [
+      {'agency': 'Sree Shanmuga', 'agency uid': '1234'},
+      {'agency': 'Sree pharma', 'agency uid': '12'},
+    ]
+  },
+  {
+    'product': 'acedol plus',
+    'agencies': [
+      {'agency': 'slv surgicals', 'agency uid': '1235'},
+      {'agency': 'sree medicals', 'agency uid': '1'},
+    ]
+  },
+  {
+    'product': 'candid powder',
+    'agencies': [
+      {'agency': 'Harsha medicals', 'agency uid': '123'},
+      {'agency': 'sree shanmuga', 'agency uid': '126'},
+    ]
+  },
+  {
+    'product': 'lactare caps',
+    'agencies': [
+      {'agency': 'Harsha medicals', 'agency uid': '123'},
+      {'agency': 'sree enterprises', 'agency uid': '101'},
+      {'agency': 'parimala agency', 'agency uid': '11'},
+    ]
+  },
+  {
+    'product': 'telvas am tab',
+    'agencies': [
+      {'agency': 'Harsha medicals', 'agency uid': '123'},
+      {'agency': 'Sree Shanmuga', 'agency uid': '1234'},
+      {'agency': 'Sree pharma', 'agency uid': '12'},
+      {'agency': 'sai madhav vaccines', 'agency uid': '13'},
+    ]
+  },
