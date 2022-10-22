@@ -1,4 +1,4 @@
-{
+[{
     'product': 'zoryl mp2 forte',
     'agencies': [
       {'agency': 'Sree Shanmuga', 'agency uid': '1234'},
@@ -43,3 +43,4 @@
       {'agency': 'sai madhav vaccines', 'agency uid': '13'},
     ]
   },
+]
